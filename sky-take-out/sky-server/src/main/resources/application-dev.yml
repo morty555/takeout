@@ -11,3 +11,8 @@ sky:
     access-key-id: LTAI5tDVRS4AcAugPk9F5ybd
     access-key-secret: MjxIEq2vK5qbiUu3bAn3lJGODBONKk
     bucket-name: webfile-mt
+  redis:
+    host: localhost
+    port: 6379
+    password:
+    database: 10
