@@ -35,7 +35,7 @@
     "minifyWXML": true
   },
   "compileType": "miniprogram",
-  "libVersion": "2.24.2",
+  "libVersion": "3.8.0",
   "appid": "wx25b805f75e2f9cd4",
   "projectname": "sky-take-out",
   "condition": {},
